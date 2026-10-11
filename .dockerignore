@@ -1,0 +1,8 @@
+target/
+.git/
+.idea/
+.vscode/
+.env
+apache/
+ci/
+database/

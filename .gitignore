@@ -1,0 +1,9 @@
+target/
+.idea/
+.vscode/
+*.log
+.env
+apache/certs/*.key
+apache/certs/*.crt
+jenkins_home/
+dependency-check-data/
